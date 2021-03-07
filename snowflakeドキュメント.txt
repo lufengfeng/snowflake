@@ -1,0 +1,15 @@
+https://docs.snowflake.com/ja/
+
+質問する...
+入門
+Snowflakeの紹介
+チュートリアル、動画、その他のリソース
+リリースノート
+Snowflakeへの接続
+Snowflakeへのデータのロード
+Snowflakeからのデータのアンロード
+Snowflakeを使用する
+Snowflakeでのデータの安全な共有
+Snowflake組織の管理
+Snowflakeアカウントの管理
+Snowflakeのセキュリティ管理
